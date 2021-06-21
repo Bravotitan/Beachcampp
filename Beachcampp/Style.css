@@ -1,0 +1,63 @@
+﻿body {
+    background-color: black;
+}
+
+#intro {
+    font-size: 50px;
+    text-align: center;
+}
+
+.Ban {
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#Hytte {
+    border: 5px;
+    border-style: solid;
+}
+
+#Luksushytte {
+    border: 5px;
+    border-style: solid;
+}
+
+#Camping {
+    border: 5px;
+    border-style: solid;
+}
+
+#Telt {
+    border: 5px;
+    border-style: solid;
+}
+
+#book {
+}
+
+#omos {
+}
+
+#Kontakt {
+    font-size: 17px;
+}
+
+.Knap {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#teltpic {
+    height: auto;
+    width: auto;
+}
+
+html {
+    min-height: 100%;
+}
+
+body {
+    min-height: 100%;
+    height: 200px;
+}
